@@ -20,7 +20,7 @@ Aplicación desarrollada en Python que utiliza Machine Learning para analizar el
 ## Estructura del proyecto
 
 ```
-📂 sistema-inteligente-mascotas
+sistema-inteligente-mascotas
 ├── mascotas.py
 ├── emociones.csv
 ├── salud.csv
