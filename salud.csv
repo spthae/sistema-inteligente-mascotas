@@ -1,0 +1,15 @@
+ID Mascota;Nombre;Tipo de mascota;Raza;Sexo;Edad;Peso;Historial medico;Nivel de actividad;Comentarios del dueño
+1;Princessa;Canino;Schauzer;Hembra;11;10;Vacunado;baja;no come
+2;Luna;Felino;Siames;Hembra;3;4;Vacunado;baja;vomita blanco
+3;Bunny;Conejo;Enano;Macho;2;2;Saludable;Alta;Come muchas zanahorias
+4;Rocky;Canino;Bulldog;Macho;6;30;Alergia a pollo;Baja;Dormilon
+5;Milo;Felino;Persa;Macho;4;5;Vacunado;Alta;Juega con pelotas
+6;Daisy;Canino;Beagle;Hembra;7;20;Problemas de corazon;Media;Le gusta correr
+7;Coco;Conejo;Gigante;Macho;3;6;Saludable;Media;Muy sociable
+8;Simba;Felino;Bengala;Macho;5;6;Vacunado;Alta;Curioso y activo
+9;Toby;Canino;Poodle;Macho;2;12;Saludable;Alta;Muy amigable
+10;Nina;Gato;Maine Coon;Hembra;6;7;Problemas renales;Baja;Tranquila
+11;felix; felino;siames; macho ;12;10;;sedentario;caida de pelo
+12;roberto; felino;siames; macho;15;12;;baja;comezon
+13;pepe; felino;siames; macho;15;12;;baja;comezon
+14;tito; felino;siames; macho;15;12;;baja;comezon

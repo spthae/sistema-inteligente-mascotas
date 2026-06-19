@@ -1,0 +1,174 @@
+Animal;Comportamiento;Emocion
+perro;mueve la cola rapido;feliz
+gato;maulla suavemente;curioso
+conejo;huele el aire con las orejas levantadas;alerta
+pajaro;salta de rama en rama;emocionado
+perro;se acurruca en tu regazo;tranquilo
+gato;se esconde debajo de la cama;asustado
+conejo;explora el recinto;curioso
+pajaro;canta con intensidad;feliz
+perro;ladra sin parar;alerta
+gato;ronronea;tranquilo
+conejo;se acurruca;tranquilo
+pajaro;aletea emocionado;emocionado
+perro;salta de alegria;feliz
+gato;se estira perezosamente;relajado
+conejo;come zanahorias;feliz
+pajaro;pica semillas;curioso
+perro;rasca la puerta;curioso
+gato;juega con una cuerda;emocionado
+conejo;salta sorprendido;emocionado
+pajaro;se posa en la rama;tranquilo
+perro;gira sobre si mismo;feliz
+gato;rasca el sillon;enojado
+conejo;raspa el suelo;enojado
+pajaro;escucha atentamente;alerta
+perro;se acuesta boca arriba;relajado
+gato;persigue la luz de un puntero;emocionado
+conejo;explora la jaula;curioso
+pajaro;vuelo corto;emocionado
+perro;corre por el patio;feliz
+gato;duerme enrollado;relajado
+conejo;mastica hojas;tranquilo
+pajaro;bebe agua;tranquilo
+perro;ladra a los extranos;alerta
+gato;se limpia la cara;tranquilo
+conejo;raspa la madera;enojado
+pajaro;se acicala;tranquilo
+perro;juega con pelota;emocionado
+gato;se acurruca en tu regazo;tranquilo
+conejo;corre y se esconde;alerta
+pajaro;salta entre ramas;emocionado
+perro;se tumba en el sofa;relajado
+gato;se estira tras dormir;tranquilo
+conejo;huele la hierba;curioso
+pajaro;canta al amanecer;feliz
+perro;se revuelca en el cesped;feliz
+gato;observa por la ventana;curioso
+conejo;corre rapido;emocionado
+pajaro;aletea rapidamente;emocionado
+perro;ladra a la pelota;emocionado
+gato;juega con hilo;emocionado
+conejo;se esconde bajo la manta;asustado
+pajaro;inclina la cabeza;curioso
+perro;corre feliz;feliz
+gato;maulla fuerte;alerta
+conejo;mira alrededor;curioso
+pajaro;vuelo corto;tranquilo
+perro;gira y se sienta;tranquilo
+gato;duerme acurrucado;relajado
+conejo;raspa la jaula;enojado
+pajaro;canta alegre;feliz
+perro;salta al aire;emocionado
+gato;juega con papel;emocionado
+conejo;explora con cuidado;curioso
+pajaro;se posa suavemente;tranquilo
+perro;ladra al cartero;alerta
+gato;persigue sombras;curioso
+conejo;se recuesta tranquilo;relajado
+pajaro;inclina la cabeza curiosa;curioso
+perro;se revuelca contento;feliz
+gato;rasca suavemente;tranquilo
+conejo;corre y salta;emocionado
+pajaro;bebe del bebedero;tranquilo
+perro;corre sin parar;emocionado
+gato;maulla bajito;tranquilo
+conejo;se esconde con miedo;asustado
+pajaro;aletea alegre;emocionado
+perro;juega con frisbee;emocionado
+gato;se estira en el sol;relajado
+conejo;huele alrededor;curioso
+pajaro;se acicala suavemente;tranquilo
+perro;ladra a otros perros;alerta
+gato;se acurruca junto a ti;tranquilo
+conejo;explora lentamente;curioso
+pajaro;salta entre ramas;emocionado
+perro;corre hacia ti;feliz
+gato;juega con la caja;emocionado
+conejo;muerde zanahoria;tranquilo
+pajaro;canta al sol;feliz
+perro;se tumba contento;relajado
+gato;persigue la luz;curioso
+conejo;raspa el suelo;enojado
+pajaro;escucha atentamente;alerta
+perro;gira en circulos;feliz
+gato;maulla suavemente;tranquilo
+conejo;corre rapido;emocionado
+pajaro;vuelo corto;emocionado
+perro;se revuelca en la arena;feliz
+gato;se oculta bajo la manta;asustado
+conejo;explora el jardin;curioso
+pajaro;se posa en rama alta;feliz
+perro;ladra con fuerza;alerta
+gato;juega con hilo;emocionado
+conejo;se esconde bajo la cama;asustado
+pajaro;aletea excitado;emocionado
+perro;corre felizmente;feliz
+gato;duerme profundamente;relajado
+conejo;se acurruca tranquilo;tranquilo
+pajaro;canta melodioso;feliz
+perro;salta de alegria;feliz
+gato;persigue sombras;curioso
+conejo;explora el recinto;curioso
+pajaro;bebe agua fresca;tranquilo
+perro;juega con pelota;emocionado
+gato;ronronea suavemente;tranquilo
+conejo;huele la comida;curioso
+pajaro;se balancea en la rama;emocionado
+perro;gira sobre si mismo;feliz
+gato;rasca el sillon;enojado
+conejo;corre y se esconde;alerta
+pajaro;inclina la cabeza;curioso
+perro;ladra a la pelota;emocionado
+gato;se acurruca;tranquilo
+conejo;salta sorprendido;emocionado
+pajaro;aletea alegre;emocionado
+perro;se tumba en el sofa;relajado
+gato;se estira tras dormir;tranquilo
+conejo;raspa la madera;enojado
+pajaro;canta alegre;feliz
+perro;corre alrededor de la casa;feliz
+gato;juega con papel;emocionado
+conejo;se recuesta tranquilo;relajado
+pajaro;bebe del bebedero;tranquilo
+perro;ladra a la puerta;alerta
+gato;se acurruca junto a la ventana;tranquilo
+conejo;explora el patio;curioso
+pajaro;vuela bajo;tranquilo
+perro;juega con agua;feliz
+gato;camina sigiloso;curioso
+conejo;raspa la jaula;enojado
+pajaro;canta al atardecer;feliz
+perro;se revuelca en el cesped;feliz
+gato;se estira en el sol;relajado
+conejo;come hojas;tranquilo
+pajaro;aletea suavemente;emocionado
+perro;corre rapido;emocionado
+gato;maulla suavemente;tranquilo
+conejo;se esconde debajo de la manta;asustado
+pajaro;se posa en el arbol;tranquilo
+perro;salta y gira;feliz
+gato;juega con hilo;emocionado
+conejo;explora lentamente;curioso
+pajaro;vuela entre ramas;emocionado
+perro;se tumba boca arriba;relajado
+gato;ronronea suave;tranquilo
+conejo;corre y salta;emocionado
+pajaro;bebe agua fresca;tranquilo
+perro;juega con pelota;emocionado
+gato;maulla bajito;tranquilo
+conejo;huele alrededor;curioso
+pajaro;aletea alegre;emocionado
+perro;corre hacia la puerta;feliz
+gato;persigue sombras;curioso
+conejo;raspa el suelo;enojado
+pajaro;se posa suavemente;tranquilo
+perro;gira y se sienta;tranquilo
+gato;se acurruca;tranquilo
+conejo;explora el jardin;curioso
+pajaro;canta alegre;feliz
+perro;salta de alegria;feliz
+gato;juega con papel;emocionado
+conejo;se recuesta tranquilo;relajado
+pajaro;bebe del bebedero;tranquilo
+
